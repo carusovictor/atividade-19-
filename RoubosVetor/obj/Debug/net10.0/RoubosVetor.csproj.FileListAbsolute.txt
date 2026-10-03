@@ -1,0 +1,14 @@
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\bin\Debug\net10.0\RoubosVetor.exe
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\bin\Debug\net10.0\RoubosVetor.deps.json
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\bin\Debug\net10.0\RoubosVetor.runtimeconfig.json
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\bin\Debug\net10.0\RoubosVetor.dll
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\bin\Debug\net10.0\RoubosVetor.pdb
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\RoubosVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\RoubosVetor.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\RoubosVetor.AssemblyInfo.cs
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\RoubosVetor.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\RoubosVetor.dll
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\refint\RoubosVetor.dll
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\RoubosVetor.pdb
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\RoubosVetor.genruntimeconfig.cache
+C:\Users\victo\Desktop\Code\PreProva\RoubosVetor\obj\Debug\net10.0\ref\RoubosVetor.dll
